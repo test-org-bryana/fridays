@@ -1,0 +1,2 @@
+# fridays
+Fridays are great!
