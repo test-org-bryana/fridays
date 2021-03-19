@@ -1,4 +1,4 @@
 # fridays
 Fridays are great!
 
-heyo!
+heyo! hi
